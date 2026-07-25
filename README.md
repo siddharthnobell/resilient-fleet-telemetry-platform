@@ -8,6 +8,12 @@ Every claim below is backed by real, executed output in the notebook — not jus
 Where a result came out messier than expected, that's reported honestly rather than smoothed
 over (see **Known Limitations** at the bottom).
 
+> **All Part 3 code was executed end-to-end on Google Colab.** The full execution logs — console
+> output, physical plans, error messages, timing data — are preserved as real cell outputs
+> inside `Trim3_Big_Data_Assignment.ipynb` (GitHub renders these inline; no need to re-run
+> anything to see them). Nothing in this repo is a code listing without corresponding executed
+> evidence.
+
 ## Repository Structure
 
 ```
